@@ -41,6 +41,39 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/sacha/OneDrive/Bureau/A4$ 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/
 # =============================================================================
+# Object build statements for EXECUTABLE target hello_world
+
+
+#############################################
+# Order-only phony target for hello_world
+
+build cmake_object_order_depends_target_hello_world: phony || .
+
+build CMakeFiles/hello_world.dir/hello_world.c.obj: C_COMPILER__hello_world_unscanned_Debug C$:/Users/sacha/OneDrive/Bureau/A4$ 2s/SIERT/PracticalSession1/hello_world.c || cmake_object_order_depends_target_hello_world
+  DEP_FILE = CMakeFiles\hello_world.dir\hello_world.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\hello_world.dir
+  OBJECT_FILE_DIR = CMakeFiles\hello_world.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target hello_world
+
+
+#############################################
+# Link the executable hello_world.exe
+
+build hello_world.exe: C_EXECUTABLE_LINKER__hello_world_Debug CMakeFiles/hello_world.dir/hello_world.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\hello_world.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = hello_world.exe
+  TARGET_IMPLIB = libhello_world.dll.a
+  TARGET_PDB = hello_world.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target ex01_hello
 
 
@@ -604,6 +637,8 @@ build ex14_thread3_sync: phony ex14_thread3_sync.exe
 
 build ex15_wcet: phony ex15_wcet.exe
 
+build hello_world: phony hello_world.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -612,7 +647,7 @@ build ex15_wcet: phony ex15_wcet.exe
 #############################################
 # Folder: C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug
 
-build all: phony ex01_hello.exe ex02_ifelse.exe ex03_for.exe ex04_while.exe ex05_adresse.exe ex06_sum.exe ex07_search.exe ex08_binary_search.exe ex09_selection_sort.exe ex10_timing.exe ex11_sleep.exe ex12_thread_hello.exe ex13_thread2_sync.exe ex14_thread3_sync.exe ex15_wcet.exe
+build all: phony hello_world.exe ex01_hello.exe ex02_ifelse.exe ex03_for.exe ex04_while.exe ex05_adresse.exe ex06_sum.exe ex07_search.exe ex08_binary_search.exe ex09_selection_sort.exe ex10_timing.exe ex11_sleep.exe ex12_thread_hello.exe ex13_thread2_sync.exe ex14_thread3_sync.exe ex15_wcet.exe
 
 # =============================================================================
 # Built-in targets

@@ -29,7 +29,8 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15
 					]
 				}
 			],
@@ -58,7 +59,8 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15
 					]
 				}
 			],
@@ -67,14 +69,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ex01_hello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex01_hello-Debug-ef862330b8dbcf3eae9f.json",
+					"jsonFile" : "target-ex01_hello-Debug-beffe06f94b7590eee99.json",
 					"name" : "ex01_hello",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex02_ifelse::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex02_ifelse-Debug-fbb4b4d4b958af6520a6.json",
+					"jsonFile" : "target-ex02_ifelse-Debug-8d306e6943fb84286a53.json",
 					"name" : "ex02_ifelse",
 					"projectIndex" : 0
 				},
@@ -88,85 +90,92 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ex04_while::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex04_while-Debug-c6ff97f47d354b838968.json",
+					"jsonFile" : "target-ex04_while-Debug-7ecdf922aa228859578c.json",
 					"name" : "ex04_while",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex05_adresse::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex05_adresse-Debug-62575f21c6989b007784.json",
+					"jsonFile" : "target-ex05_adresse-Debug-dd35c88002727928acdf.json",
 					"name" : "ex05_adresse",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex06_sum::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex06_sum-Debug-539097225b7d268492ac.json",
+					"jsonFile" : "target-ex06_sum-Debug-713ddaacd25cd6f378c3.json",
 					"name" : "ex06_sum",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex07_search::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex07_search-Debug-afb1f54110b59ac68693.json",
+					"jsonFile" : "target-ex07_search-Debug-72227b962605b6a59f2c.json",
 					"name" : "ex07_search",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex08_binary_search::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex08_binary_search-Debug-b4f475e5a12b79df77a1.json",
+					"jsonFile" : "target-ex08_binary_search-Debug-a17e842c68df731da2ce.json",
 					"name" : "ex08_binary_search",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex09_selection_sort::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex09_selection_sort-Debug-e534ede31fbbdcf0b560.json",
+					"jsonFile" : "target-ex09_selection_sort-Debug-8847ff0b938171966240.json",
 					"name" : "ex09_selection_sort",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex10_timing::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex10_timing-Debug-2161d6c66927ffd7aa73.json",
+					"jsonFile" : "target-ex10_timing-Debug-463c2db458747a9b641a.json",
 					"name" : "ex10_timing",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex11_sleep::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex11_sleep-Debug-717067c0b91ff38cd18f.json",
+					"jsonFile" : "target-ex11_sleep-Debug-46da173fb1348c3420f7.json",
 					"name" : "ex11_sleep",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex12_thread_hello::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex12_thread_hello-Debug-86b661e883882263d964.json",
+					"jsonFile" : "target-ex12_thread_hello-Debug-4648fe25481f480eb7f2.json",
 					"name" : "ex12_thread_hello",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex13_thread2_sync::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex13_thread2_sync-Debug-044027755eabf475c90e.json",
+					"jsonFile" : "target-ex13_thread2_sync-Debug-c4fa8f59e232f2b9b53d.json",
 					"name" : "ex13_thread2_sync",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex14_thread3_sync::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex14_thread3_sync-Debug-a9031da628819b794a4b.json",
+					"jsonFile" : "target-ex14_thread3_sync-Debug-99d3dd93e3868e1a3e74.json",
 					"name" : "ex14_thread3_sync",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "ex15_wcet::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex15_wcet-Debug-af751165e0de77ca9bc7.json",
+					"jsonFile" : "target-ex15_wcet-Debug-ef0bae2fbbca0e00e27e.json",
 					"name" : "ex15_wcet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hello_world::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hello_world-Debug-b9640f41be9c9398f05f.json",
+					"name" : "hello_world",
 					"projectIndex" : 0
 				}
 			]

@@ -1,3 +1,4 @@
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/hello_world.dir
 C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex01_hello.dir
 C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex02_ifelse.dir
 C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex03_for.dir

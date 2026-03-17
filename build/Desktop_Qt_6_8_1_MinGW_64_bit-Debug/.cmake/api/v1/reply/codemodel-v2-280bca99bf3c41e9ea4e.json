@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PracticalSession1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ex01_hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex01_hello-Debug-ef862330b8dbcf3eae9f.json",
+					"name" : "ex01_hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex02_ifelse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex02_ifelse-Debug-fbb4b4d4b958af6520a6.json",
+					"name" : "ex02_ifelse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex03_for::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex03_for-Debug-522a3fb9245344623536.json",
+					"name" : "ex03_for",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex04_while::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex04_while-Debug-c6ff97f47d354b838968.json",
+					"name" : "ex04_while",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex05_adresse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex05_adresse-Debug-62575f21c6989b007784.json",
+					"name" : "ex05_adresse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex06_sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex06_sum-Debug-539097225b7d268492ac.json",
+					"name" : "ex06_sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex07_search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex07_search-Debug-afb1f54110b59ac68693.json",
+					"name" : "ex07_search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex08_binary_search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex08_binary_search-Debug-b4f475e5a12b79df77a1.json",
+					"name" : "ex08_binary_search",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex09_selection_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex09_selection_sort-Debug-e534ede31fbbdcf0b560.json",
+					"name" : "ex09_selection_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex10_timing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex10_timing-Debug-2161d6c66927ffd7aa73.json",
+					"name" : "ex10_timing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex11_sleep::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex11_sleep-Debug-717067c0b91ff38cd18f.json",
+					"name" : "ex11_sleep",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex12_thread_hello::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex12_thread_hello-Debug-86b661e883882263d964.json",
+					"name" : "ex12_thread_hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex13_thread2_sync::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex13_thread2_sync-Debug-044027755eabf475c90e.json",
+					"name" : "ex13_thread2_sync",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex14_thread3_sync::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex14_thread3_sync-Debug-a9031da628819b794a4b.json",
+					"name" : "ex14_thread3_sync",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ex15_wcet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ex15_wcet-Debug-af751165e0de77ca9bc7.json",
+					"name" : "ex15_wcet",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

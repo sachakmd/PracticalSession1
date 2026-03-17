@@ -1,0 +1,17 @@
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex01_hello.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex02_ifelse.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex03_for.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex04_while.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex05_adresse.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex06_sum.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex07_search.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex08_binary_search.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex09_selection_sort.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex10_timing.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex11_sleep.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex12_thread_hello.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex13_thread2_sync.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex14_thread3_sync.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/ex15_wcet.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/sacha/OneDrive/Bureau/A4 2s/SIERT/PracticalSession1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
